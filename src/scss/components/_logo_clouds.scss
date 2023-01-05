@@ -1,0 +1,13 @@
+.logo_clouds {
+    margin-bottom: 16px;
+}
+
+.logo_clouds_list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 32px;
+    list-style-type: none;
+    margin: 0;
+    padding: 40px 160px;
+}
