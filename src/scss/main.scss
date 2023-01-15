@@ -1,16 +1,9 @@
 // базові подключения
 @import "vars";
-@import "mixins";
-@import "fonts";
+// @import "mixins";
+// @import "fonts";
 @import "settings";
 
 // підключення компонентів до сторінки
 @import "./components/header";
-@import "./components/about_tools";
-@import "./components/features";
-@import "./components/logo_clouds";
-@import "./components/metrics";
-@import "./components/mobile_applications";
-@import "./components/testimonial";
-@import "./components/footer";
 @import "./components/media";
